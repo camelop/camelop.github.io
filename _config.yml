@@ -1,1 +1,20 @@
 theme: jekyll-theme-architect
+
+# Site settings
+title: Xiaoyuan Liu || littleRound
+SEOTitle: Xiaoyuan Liu | littleRound Blog
+header-img: 
+email: lxy9843@gmail.com
+description: 
+keyword: "Computer Science, Engineering"
+url: "https://littleround.cn"              # your host, for absolute URL
+baseurl: ""                                # for example, '/blog' if your blog hosted on 'host/blog'
+
+# Publish posts or collection documents with a future date.
+future: true
+
+# SNS settings
+RSS: false
+weibo_username:     
+zhihu_username:     liu-xiao-yuan-66-44
+github_username:    littleRound
