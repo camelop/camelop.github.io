@@ -3,7 +3,7 @@
 ### Projects
 
 ### Info
-CV: [static/cv2018_09_15.html] or [static/cv_xiaoyuanliu_2018_09_15.pdf]
+CV: [HTML](static/cv2018_09_15.html) or [PDF](static/cv_xiaoyuanliu_2018_09_15.pdf)
 
 ### Contact 
 - 800 Dongchuan Road, Shanghai, 200240, China
