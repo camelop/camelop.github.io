@@ -1,5 +1,3 @@
-## Xiaoyuan Liu
-
 ### Projects
 - [tensorwolf](https://github.com/camelop/tensorwolf)
 - [QuPlayground](https://camelop.github.io/QuPlayground)
