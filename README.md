@@ -6,7 +6,7 @@
 - [tensorwolf](https://github.com/camelop/tensorwolf)
 - [UTJS](https://github.com/camelop/UTJS)
 - [MxStaro](https://github.com/camelop/MxStaro)
-- [Tone-Classification](http://littleround.cn/Speechlab-Tone-Classification/)
+- [Tone-Classification - Speechlab](http://littleround.cn/Speechlab-Tone-Classification/)
 
 ### Info
 - CV: [HTML](static/cv2018_09_15.html) or [PDF](static/cv_xiaoyuanliu_2018_09_15.pdf)
