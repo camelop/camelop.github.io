@@ -17,10 +17,35 @@
       demo_link: 'http://littleround.cn/QuPlayground/',
       img_link: 'http://littleround.cn/QuPlayground/thumbnails/bell.png',
       code_link: 'https://github.com/camelop/QuPlayground',
-      title: 'QuPlayground 量子电路模拟',
+      title: 'QuPlayground\n量子电路模拟',
       core_tech: 'JavaScript',
       description: 'A new way to test your ideas about quantum circuit.'
+    }, 
+    {
+      demo_link: 'http://ys.littleround.cn',
+      img_link: 'http://ys.littleround.cn/static/uploads/snapshots/%E5%9B%B4%E6%A3%8B%E6%B0%94%E4%B8%8E%E7%9C%BC%E4%B8%89.jpg',
+      code_link: '#',
+      title: 'YuShui\nAid Education',
+      core_tech: 'Django',
+      description: '2018年7月，突发的泥石流导致成昆铁路中断，原计划于四川省凉山州昭觉中学展开的支教活动被迫取消。长三角荣誉学院联盟将支教活动调整为通过支教课程资料整理和支教团现状调研，搭建一款适合国内大学生支教团队参考的支教经验及课程内容分享平台，也为了明年更好地“再出发。 平台故取名为‘鱼水“，以此纪念这场中断了四校支教团队与昭觉中学学生的雨水，亦展现祖国众多支教学生和偏远地区参与支教活动学生的鱼水之情。'
+    },
+    {
+      demo_link: 'https://github.com/camelop/UTJS/blob/master/README.md',
+      img_link: 'https://github.com/Evensgn/UTJS/raw/master/manual_images/1.gif',
+      code_link: 'https://github.com/camelop/UTJS',
+      title: 'UTJS',
+      core_tech: 'Qt',
+      description: '通用火车旅行系统(Universal Train Journey System)是utjs小组提交的ACM班2017年数据结构课的大作业项目。 '
+    }, 
+    {
+      demo_link: 'http://littleround.cn/Speechlab-Tone-Classification/',
+      img_link: 'https://github.com/Evensgn/UTJS/raw/master/manual_images/1.gif',
+      code_link: 'https://github.com/camelop/Speechlab-Tone-Classification',
+      title: 'Tone-Classification',
+      core_tech: 'Python',
+      description: 'Classify tones of single Chinese characters (different characters in different cases) by their f0/engy sequences.'
     }
+
   ];
 
   contentInit(demoContent) //内容初始化

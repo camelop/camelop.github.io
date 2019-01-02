@@ -21,7 +21,7 @@ excerpt: 这篇博客主要是搬运 https://jekyllrb.com/docs/ ，搞个中文�
 
 岁月不居，时节如流，转眼间2019年已到。受到马达学长的启发以及实验室trac数据丢失的影响，我也决定自己搭个博客，一来能避免多年以后忘记这时候我在干啥；二来也能假装自己在做事让自己安心一些。
 
-这篇博客主要是搬运 https://jekyllrb.com/docs/ ，搞个中文精简版，如果有任何写的不清楚的地方欢迎指出，也推荐参考英文原文。
+这篇博客主要是搬运 [Jekyll-tutorial](https://jekyllrb.com/docs/) ，搞个中文精简版，如果有任何写的不清楚的地方欢迎指出，也推荐参考英文原文。
 
 ## 环境准备
 
@@ -40,7 +40,7 @@ source ~/.bashrc
 gem install jekyll bundler
 ```
 
-```jekyll new test_site&& cd test_site && bundle exec jekyll serve```无报错说明安装成功，可以在 http://localhost:4000 查看结果
+在目录运行```jekyll new test_site&& cd test_site && bundle exec jekyll serve```无报错说明安装成功，可以在 [http://localhost:4000](http://localhost:4000) 查看结果
 
 ## 基本命令
 
@@ -300,9 +300,5 @@ end
 ## 在此之后
 
 去http://jekyllthemes.org找一个自己看着顺眼的主题，在其github主页的readme里看下怎么配置即可。
-
-# Comments
-
-{% include comments.html %}
 
 {% endraw %}

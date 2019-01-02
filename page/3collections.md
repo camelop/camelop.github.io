@@ -4,6 +4,7 @@ title: Collections
 permalink: /collection/
 icon: bookmark
 type: page
+comment: True
 ---
 
 * content
@@ -11,9 +12,4 @@ type: page
 
 # 收藏
 
-TODO
-
-
-## Comments
-
-{% include comments.html %}
+[see here](https://www.zhihu.com/collection/60989957)
