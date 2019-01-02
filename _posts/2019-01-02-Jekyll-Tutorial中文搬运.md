@@ -11,6 +11,8 @@ excerpt: 这篇博客主要是搬运 https://jekyllrb.com/docs/ ，搞个中文�
 * content
 {:toc}
 
+{% raw %}
+
 # Jekyll-Tutorial中文搬运
 
 2019年1月2日
@@ -298,3 +300,9 @@ end
 ## 在此之后
 
 去http://jekyllthemes.org找一个自己看着顺眼的主题，在其github主页的readme里看下怎么配置即可。
+
+# Comments
+
+{% include comments.html %}
+
+{% endraw %}
