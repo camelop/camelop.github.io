@@ -1,18 +1,3 @@
-# 刘啸远 @ [SpeechLab](https://speechlab.sjtu.edu.cn)
+# 主题来源
 
-### Projects
-- [YuShui - Aid Education](http://ys.littleround.cn)
-- [QuPlayground](https://camelop.github.io/QuPlayground)
-- [tensorwolf](https://github.com/camelop/tensorwolf)
-- [UTJS](https://github.com/camelop/UTJS)
-- [MxStaro](https://github.com/camelop/MxStaro)
-- [Tone-Classification - Speechlab](http://littleround.cn/Speechlab-Tone-Classification/)
-
-### Info
-- CV: [HTML](static/cv2018_09_15.html) or [PDF](static/cv_xiaoyuanliu_2018_09_15.pdf)
-
-### Contact 
-- 800 Dongchuan Road, Shanghai, 200240, China
-- lxy9843@sjtu.edu.cn
-- littleround.cn
-- +8613262290218
+https://github.com/Gaohaoyang/gaohaoyang.github.io

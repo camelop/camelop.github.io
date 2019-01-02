@@ -1,20 +1,60 @@
-theme: jekyll-theme-tactile
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: littleRound's blog
-SEOTitle: Xiaoyuan Liu | littleRound Blog
-header-img: 
-email: lxy9843@gmail.com
-description: 
-keyword: "Computer Science, Engineering"
-url: "https://littleround.cn"              # your host, for absolute URL
-baseurl: ""                                # for example, '/blog' if your blog hosted on 'host/blog'
+title: A perpetual surprise
+brief-intro: littleRound
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://camelop.github.io" # the base hostname & protocol for your site
 
-# Publish posts or collection documents with a future date.
-future: true
+permalink: /:year/:month/:day/:title/
 
-# SNS settings
-RSS: false
-weibo_username:     
-zhihu_username:     liu-xiao-yuan-66-44
-github_username:    littleRound
+# other links
+twitter_username: 
+facebook_username: 
+github_username:  camelop
+email: lxy9843@sjtu.edu.cn
+weibo_username: 刘啸远
+zhihu_username: 刘小园
+linkedIn_username: 
+dribbble_username:
+
+description_footer: That I exist is a perpetual surprise which is life.
+
+# comments
+# two ways to comment, only choose one, and use your own short name
+# 两种评论插件，选一个就好了，使用自己的 short_name
+duoshuo_shortname: 
+disqus_shortname: littleround
+
+# statistic analysis 统计代码
+# 百度统计 id，将统计代码替换为自己的百度统计id，即
+# hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
+# xxxxx字符串
+baidu_tongji_id: 23a64a68290c0988bd3b04fa6d026c7c
+google_analytics_id: UA-131581917-1 # google 分析追踪id
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# port
+# port: 1234
+
+# url
+category_dir: category/
+tag_dir: tag/
+
+# excerpt
+excerpt_separator: "\n\n\n\n"
+
+# paginate
+gems: [jekyll-paginate]
+paginate: 6
