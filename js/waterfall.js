@@ -39,7 +39,7 @@
     }, 
     {
       demo_link: 'http://littleround.cn/Speechlab-Tone-Classification/',
-      img_link: 'https://github.com/Evensgn/UTJS/raw/master/manual_images/1.gif',
+      img_link: 'https://github.com/camelop/Speechlab-Tone-Classification/raw/master/README_pic/tone1234.png',
       code_link: 'https://github.com/camelop/Speechlab-Tone-Classification',
       title: 'Tone-Classification',
       core_tech: 'Python',

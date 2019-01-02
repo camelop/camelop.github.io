@@ -13,3 +13,7 @@ comment: True
 # 收藏
 
 [see here](https://www.zhihu.com/collection/60989957)
+
+## 评论区
+
+{% include comments.html %}
