@@ -27,6 +27,6 @@ comment: True
 
 - [https://zhoufan.me/](https://zhoufan.me/)
 
-## 评论区
+## 评论区(DISQUS)
 
 {% include comments.html %}
