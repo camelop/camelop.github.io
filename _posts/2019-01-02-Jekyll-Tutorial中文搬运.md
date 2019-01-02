@@ -299,6 +299,6 @@ end
 
 ## 在此之后
 
-去http://jekyllthemes.org找一个自己看着顺眼的主题，在其github主页的readme里看下怎么配置即可。
+去[http://jekyllthemes.org](http://jekyllthemes.org)找一个自己看着顺眼的主题，在其github主页的readme里看下怎么配置即可。
 
 {% endraw %}
