@@ -15,7 +15,7 @@ comment: True
 <iframe src="https://githubbadge.appspot.com/camelop" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 ### Info
-- CV: [HTML](/static/cv2018_09_15.html) or [PDF](/static/cv_xiaoyuanliu_2018_09_15.pdf)
+- CV: [HTML](/static/personal/cv2018_09_15.html) or [PDF](/static/personal/cv_xiaoyuanliu_2018_09_15.pdf)
 
 ### Contact 
 - 800 Dongchuan Road, Shanghai, 200240, China

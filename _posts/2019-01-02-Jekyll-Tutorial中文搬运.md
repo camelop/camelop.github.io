@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jekyll-Tutorial中文搬运"
-categories: 技巧
+categories: 技术
 tags:  jekyll
 author: littleRound
 comment: true
@@ -185,7 +185,7 @@ This page tells you a little bit about me.
 
 可以把css、 images、 js等资源都放进assets里，相当于作为静态文件使用
 
-如果有兴趣可以阅读[Sass]([Sass](https://sass-lang.com/))，听说可以用来整理CSS文件
+如果有兴趣可以阅读[Sass](https://sass-lang.com/)，听说可以用来整理CSS文件
 
 ## Posts
 
