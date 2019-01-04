@@ -5,7 +5,7 @@ categories: 技术
 tags:  Python 可视化
 author: littleRound
 comment: true
-excerpt: 本文简要通过两个简单的例子介绍如何使用python的matplotlib来绘制动画并展示或存储为html, mp4, gif等格式。
+excerpt: 本文通过两个简单的例子介绍如何使用python的matplotlib来绘制动画并展示或存储为html, mp4, gif等格式。
 ---
 
 * content
@@ -82,9 +82,9 @@ matplotlib.animation.FuncAnimation(fig, func, frames=None, init_func=None, fargs
 - ```repeat```控制动画是否重复的布尔值，默认为真；可通过```repeat_delay```添加重播前的延迟
 - ```save_count ```缓存帧数，修改这个对解决卡顿有好处
 
-我们再来看一个例子，在这个例子中，我们代码实现的逻辑是把随机生成的左图中的红色像素移动到右图对应位置
+我们再来看一个例子，在这个例子中，我们代码实现的逻辑是把随机生成的左图中的红色像素移动到右图对应位置。
 
-需要注意的是，为了保存动画文件我们需要[ffmpeg](http://www.ffmpeg.org/download.html)，如不需要可屏蔽相关代码；另外，运行可能**需要一段时间**
+需要注意的是，为了保存动画文件我们需要[ffmpeg](http://www.ffmpeg.org/download.html)，如不需要可屏蔽相关代码；另外，运行可能**需要一段时间**。
 
 代码如下
 
@@ -158,12 +158,14 @@ plt.show()
 
 ### 应用到项目中
 
-有了必要的知识后，我们就可以把这个东西部署到实验的框架下了（关于这个实验有机会单独再写一篇吧，内容大概比较多也比较乱，所以代码也就不给出了）
+有了必要的知识后，我们就可以把这个东西部署到实验的框架下了（关于这个实验有机会单独再写一篇吧，内容大概比较多也比较乱，所以代码也就不给出了）；
+
 成品如下（因为使用了尚未训练的Agent所以欺骗效果并不理想）：
 
 ![项目应用](/static/post_resource/2019-01-03-4.gif)
 
 可以看到动画确实会比静态图直观不少，而且html5的格式可以方便我们前后跳转动画进度。
+
 这次技术学习也告一段落啦，如有任何问题或建议欢迎评论留言或邮件交流。
 
 {% endraw %}
