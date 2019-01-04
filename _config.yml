@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: A perpetual surprise
-brief-intro: littleRound
+title: littleRound
+brief-intro: 小园香径 - lxy的个人博客
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://camelop.github.io" # the base hostname & protocol for your site
 
