@@ -15,7 +15,7 @@ comment: True
 <iframe src="https://githubbadge.appspot.com/camelop" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 ### Info
-- CV: [HTML](/static/personal/cv2018_09_15.html) or [PDF](/static/personal/cv_xiaoyuanliu_2018_09_15.pdf)
+- CV: [PDF](/static/personal/cv_xiaoyuanliu_SJTU_2019_01.pdf)
 
 ### Contact 
 - 800 Dongchuan Road, Shanghai, 200240, China
@@ -26,6 +26,7 @@ comment: True
 ## 友情链接
 
 - [https://zhoufan.me/](https://zhoufan.me/)
+- [http://zidaneandmessi.github.io/](http://zidaneandmessi.github.io/)
 
 ## 评论区(DISQUS)
 
