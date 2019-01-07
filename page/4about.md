@@ -12,16 +12,22 @@ comment: True
 
 ## 刘啸远 @ [SpeechLab](https://speechlab.sjtu.edu.cn)
 
+I am a junior undergraduate student majoring in Computer Science at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) ACM Honors Class, Zhiyuan College. 
+
+[ACM Honors Class](https://acm.sjtu.edu.cn/home) is an elite CS program at SJTU for top 5% talented students.
+
+I plan to apply for CS PhD programs that starts in Fall 2020.
+
 <iframe src="https://githubbadge.appspot.com/camelop" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
-### Info
+### 个人信息
 - CV: [PDF](/static/personal/cv_xiaoyuanliu_SJTU_2019_01.pdf)
 
-### Contact 
+### 联系方式 
 - 800 Dongchuan Road, Shanghai, 200240, China
 - lxy9843@sjtu.edu.cn
-- littleround.cn
 - +8613262290218
+- littleround.cn
 
 ## 友情链接
 
