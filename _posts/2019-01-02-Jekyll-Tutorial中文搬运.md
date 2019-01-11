@@ -5,7 +5,7 @@ categories: 技术
 tags:  jekyll
 author: littleRound
 comment: true
-excerpt: 这篇博客主要是搬运 https://jekyllrb.com/docs/ ，搞个中文精简版，如果有任何写的不清楚的地方欢迎指出，也推荐参考英文原文。
+excerpt: jekyll是一个用于生成静态网站（如本站）的框架。这篇博客主要是搬运 https://jekyllrb.com/docs/ ，搞个中文精简版。如果希望使用jekyll和github pages搭建自己的静态主页，可以对本文进行参考。如果有任何写的不清楚的地方欢迎指出，也推荐参考英文原文。
 ---
 
 * content
