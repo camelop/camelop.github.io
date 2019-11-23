@@ -33,7 +33,7 @@ I plan to apply for CS PhD programs that starts in Fall 2020.
 
 - [https://zhoufan.me/](https://zhoufan.me/)
 - [http://zidaneandmessi.github.io/](http://zidaneandmessi.github.io/)
-- [https://lizhihao6.github.io/](https://lizhihao6.github.io/)
+- [https://lizhihao6.online/](https://lizhihao6.online/)
 - [https://travelleralone.github.io/](https://travelleralone.github.io/)
 
 ## 评论区(DISQUS)
