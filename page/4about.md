@@ -21,12 +21,12 @@ I plan to apply for CS PhD programs that starts in Fall 2020.
 <iframe src="https://githubbadge.appspot.com/camelop" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 ### 个人信息
-- CV: [PDF](/static/personal/cv_xiaoyuanliu_SJTU_2019_01.pdf)
+- CV: [PDF](/static/personal/cv_xiaoyuanliu_SJTU_2019_11.pdf)
 
 ### 联系方式 
 - 800 Dongchuan Road, Shanghai, 200240, China
-- lxy9843@sjtu.edu.cn
-- +8613262290218
+- lxy9843 [at] sjtu [dot] edu [dot] cn
+- +86 132 6229 0218
 - littleround.cn
 
 ## 友情链接
