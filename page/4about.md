@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /blog_about/
 icon: heart
 type: page
 comment: True
@@ -19,7 +19,6 @@ I am a junior undergraduate student majoring in Computer Science at [Shanghai Ji
 I plan to apply for CS PhD programs that starts in Fall 2020.
 
 <iframe src="https://githubbadge.appspot.com/camelop" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
-
 ### 个人信息
 - CV: [PDF](/static/personal/cv_xiaoyuanliu_SJTU_2019_11.pdf)
 
