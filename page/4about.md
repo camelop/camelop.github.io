@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About(old)
 permalink: /blog_about/
 icon: heart
 type: page
@@ -20,7 +20,7 @@ I plan to apply for CS PhD programs that starts in Fall 2020.
 
 <iframe src="https://githubbadge.appspot.com/camelop" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 ### 个人信息
-- CV: [PDF](/static/personal/cv_xiaoyuanliu_SJTU_2019_11.pdf)
+- CV: [PDF](/static/personal/cv_xiaoyuanliu_SJTU_2019_12.pdf)
 
 ### 联系方式 
 - 800 Dongchuan Road, Shanghai, 200240, China
